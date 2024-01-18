@@ -41,12 +41,12 @@ My research interest includes neural machine translation and computer vision.
 - Webster International Scholarship
 
 # 📖 Educations
-- *2021.05 - Present*, Ph.D. Computer Science, University of Arkansas
-- *2018.08 - 2020.05*, Bachelor's Computer Science, Webster University
+- *2021.05 - Present*: Ph.D. Computer Science, University of Arkansas
+- *2018.08 - 2020.05*: Bachelor's Computer Science, Webster University
 
 # 💻 Experience
-- *2019.08 - 2020.05*, Data Analyst, FDC Webster University
-- *2019.05 - 2019.07*, Intern, Jenzabar
+- *2019.08 - 2020.05*: Data Analyst, FDC Webster University
+- *2019.05 - 2019.07*: Intern, Jenzabar
 
 # 💬 Teaching
 - Multidisciplinary Bootcamp, Lecturer 
