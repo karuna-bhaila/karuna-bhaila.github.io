@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Karuna Bhaila - Homepage"
-description              : #"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D. Student "
 repository               : "karuna-bhaila/karunabhaila.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Karuna Bhaila"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. Student"
+  bio              : #"Ph.D. Student"
   location         : "Fayetteville, Arkansas"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "karuna-bhaila-780908193/"
+  linkedin         : "karuna-bhaila"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
