@@ -17,8 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes neural machine translation and computer vision. 
+I am a CS Ph.D. student in the [SAIL](https://sail.uark.edu/) lab advised by [Dr. Xintao Wu](http://www.csce.uark.edu/~xintaowu/) at the University of Arkansas.
 
+My research focuses on graph machine learning with an emphasis on trustworthy learning, especially privacy and fairness. 
+I am also broadly interested in graph foundation models and applications of LLMs on graph data.
+Currently, I am also working on applications of graph machine learning in physical systems such as infrastructure networks.
 
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -27,28 +30,29 @@ My research interest includes neural machine translation and computer vision.
 
 # 📝 Publications
 
-- Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach, Karuna Bhaila, Wen Huang, Yongkai Wu, Xintao Wu, SDM 2024, GLFrontiers @ NEURIPS 2023 [[Paper]](https://arxiv.org/pdf/2309.08569.pdf) [[Code]](https://github.com/karuna-bhaila/RGNN)
+- Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach, Karuna Bhaila, Wen Huang, Yongkai Wu, Xintao Wu, SDM 2024 and GLFrontiers @ NEURIPS 2023 [[Paper]](https://arxiv.org/pdf/2309.08569.pdf) [[Code]](https://github.com/karuna-bhaila/RGNN)
 
-- Cascading Failure Prediction in Power Grid Using Node and Edge Attributed Graph Neural Networks, Karuna Bhaila, Xintao Wu, AI2ASE @ AAAI 2024 [[Paper]]() [[Code]](https://github.com/karuna-bhaila/gnn-cascading-failure)
+- Cascading Failure Prediction in Power Grid Using Node and Edge Attributed Graph Neural Networks, Karuna Bhaila, Xintao Wu, AI2ASE @ AAAI 2024 [[Code]](https://github.com/karuna-bhaila/gnn-cascading-failure)
 
 - Randomized Response Has No Disparate Impact on Model Accuracy, Alycia N. Carey, Karuna Bhaila, Xintao Wu, IEEE Big Data 2023 
 
-- Fair Collective Classification in Networked Data, Karuna Bhaila, Yongkai Wu, Xintao Wu, IEEE Big Data 2022, EAI-KDD 2022 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10020610) 
+- Fair Collective Classification in Networked Data, Karuna Bhaila, Yongkai Wu, Xintao Wu, IEEE Big Data 2022 and EAI-KDD 2022 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10020610)
+
+# 📖 Education
+- *2021.08 - Present*: Ph.D. Computer Science, University of Arkansas
+- *2018.08 - 2020.05*: Bachelor's Computer Science, Webster University
+
+# 💻 Experience
+- *2020.09 - 2021.07*: Developer, ITSutra
+- *2019.08 - 2020.05*: Data Analyst, FDC Webster University
+- *2019.05 - 2019.07*: Intern, Jenzabar
+
+# 💬 Teaching
+- Lecturer, Python and Machine Learning @ Multidisciplinary Bootcamp (MDaS), University of Arkansas 
+- Guest Lecturer, CSCE 4143 Data Mining, University of Arkansas
+- Math and CS Tutor, Webster University
 
 # 🎖 Honors and Awards
 - Reginald R. 'Barney' & Jameson A. Baxter Graduate Fellowship
 - College of Engineering Graduate Fellowship
 - Webster International Scholarship
-
-# 📖 Educations
-- *2021.05 - Present*: Ph.D. Computer Science, University of Arkansas
-- *2018.08 - 2020.05*: Bachelor's Computer Science, Webster University
-
-# 💻 Experience
-- *2019.08 - 2020.05*: Data Analyst, FDC Webster University
-- *2019.05 - 2019.07*: Intern, Jenzabar
-
-# 💬 Teaching
-- Multidisciplinary Bootcamp, Lecturer 
-- Invited Lecturer
-- Tutor, Webster University
