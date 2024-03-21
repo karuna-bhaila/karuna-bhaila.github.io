@@ -32,9 +32,9 @@ Currently, I am also working on applications of graph machine learning in physic
 
 - Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach, Karuna Bhaila, Wen Huang, Yongkai Wu, Xintao Wu, SDM 2024 and GLFrontiers @ NEURIPS 2023 [[Paper]](https://arxiv.org/pdf/2309.08569.pdf) [[Code]](https://github.com/karuna-bhaila/RGNN)
 
-- Cascading Failure Prediction in Power Grid Using Node and Edge Attributed Graph Neural Networks, Karuna Bhaila, Xintao Wu, AI2ASE @ AAAI 2024 [[Code]](https://github.com/karuna-bhaila/gnn-cascading-failure)
+- Cascading Failure Prediction in Power Grid Using Node and Edge Attributed Graph Neural Networks, Karuna Bhaila, Xintao Wu, IJCNN 2024 and AI2ASE @ AAAI 2024 [[Paper]](https://ai-2-ase.github.io/papers/25%5CCameraReady%5Ccamera_ready_cascade_gnn.pdf) [[Code]](https://github.com/karuna-bhaila/gnn-cascading-failure)
 
-- Randomized Response Has No Disparate Impact on Model Accuracy, Alycia N. Carey, Karuna Bhaila, Xintao Wu, IEEE Big Data 2023 
+- Randomized Response Has No Disparate Impact on Model Accuracy, Alycia N. Carey, Karuna Bhaila, Xintao Wu, IEEE Big Data 2023 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10386574)
 
 - Fair Collective Classification in Networked Data, Karuna Bhaila, Yongkai Wu, Xintao Wu, IEEE Big Data 2022 and EAI-KDD 2022 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10020610)
 
