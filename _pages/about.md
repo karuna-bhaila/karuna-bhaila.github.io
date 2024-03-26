@@ -38,9 +38,11 @@ Currently, I am also working on applications of graph machine learning in physic
 
 - Fair Collective Classification in Networked Data, Karuna Bhaila, Yongkai Wu, Xintao Wu, IEEE Big Data 2022 and EAI-KDD 2022 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10020610)
 
-# 📖 Education
-- *2021.08 - Present*: Ph.D. Computer Science, University of Arkansas
-- *2018.08 - 2020.05*: Bachelor's Computer Science, Webster University
+# 🎖 Honors and Awards
+- *2024.04*: SIAM Student Travel Award
+- Reginald R. 'Barney' & Jameson A. Baxter Graduate Fellowship
+- College of Engineering Graduate Fellowship
+- Webster International Scholarship
 
 # 💻 Experience
 - *2020.09 - 2021.07*: Developer, ITSutra
@@ -51,8 +53,3 @@ Currently, I am also working on applications of graph machine learning in physic
 - Lecturer, Python and Machine Learning @ Multidisciplinary Bootcamp (MDaS), University of Arkansas 
 - Guest Lecturer, CSCE 4143 Data Mining, University of Arkansas
 - Math and CS Tutor, Webster University
-
-# 🎖 Honors and Awards
-- Reginald R. 'Barney' & Jameson A. Baxter Graduate Fellowship
-- College of Engineering Graduate Fellowship
-- Webster International Scholarship
