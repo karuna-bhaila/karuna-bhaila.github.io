@@ -20,23 +20,27 @@ redirect_from:
 I am a CS Ph.D. student in the [SAIL](https://sail.uark.edu/) lab advised by [Dr. Xintao Wu](http://www.csce.uark.edu/~xintaowu/) at the University of Arkansas.
 
 My research focuses on graph machine learning with an emphasis on trustworthy learning, especially privacy and fairness. 
-I am also broadly interested in graph foundation models and applications of LLMs on graph data.
-Currently, I am also working on applications of graph machine learning in physical systems such as infrastructure networks.
+I am also broadly interested in trustworthy foundation models, graph foundation models and applications of LLMs on graph data.
+Currently, I am also working on applications of graph machine learning in physical systems such as critical infrastructure networks.
 
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
+# 📝 Preprints
+
+- DP-TabICL: In-Context Learning with Differentially Private Tabular Data, Alycia N. Carey*, Karuna Bhaila*, Kennedy Edemacu, Xintao Wu, ArXiV 2024. [[Paper]](https://arxiv.org/pdf/2403.05681)
+
 # 📝 Publications
 
-- Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach, Karuna Bhaila, Wen Huang, Yongkai Wu, Xintao Wu, SDM 2024 and GLFrontiers @ NEURIPS 2023 [[Paper]](https://arxiv.org/pdf/2309.08569.pdf) [[Code]](https://github.com/karuna-bhaila/RGNN)
+- Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach, Karuna Bhaila, Wen Huang, Yongkai Wu, Xintao Wu, SDM 2024 and GLFrontiers @ NEURIPS 2023. [[Paper]](https://epubs.siam.org/doi/10.1137/1.9781611978032.1) [[Code]](https://github.com/karuna-bhaila/RGNN)
 
-- Cascading Failure Prediction in Power Grid Using Node and Edge Attributed Graph Neural Networks, Karuna Bhaila, Xintao Wu, IJCNN 2024 and AI2ASE @ AAAI 2024 [[Paper]](https://ai-2-ase.github.io/papers/25%5CCameraReady%5Ccamera_ready_cascade_gnn.pdf) [[Code]](https://github.com/karuna-bhaila/gnn-cascading-failure)
+- Cascading Failure Prediction in Power Grid Using Node and Edge Attributed Graph Neural Networks, Karuna Bhaila, Xintao Wu, IJCNN 2024 and AI2ASE @ AAAI 2024. [[Paper]](https://ai-2-ase.github.io/papers/25%5CCameraReady%5Ccamera_ready_cascade_gnn.pdf) [[Code]](https://github.com/karuna-bhaila/gnn-cascading-failure)
 
-- Randomized Response Has No Disparate Impact on Model Accuracy, Alycia N. Carey, Karuna Bhaila, Xintao Wu, IEEE Big Data 2023 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10386574)
+- Randomized Response Has No Disparate Impact on Model Accuracy, Alycia N. Carey, Karuna Bhaila, Xintao Wu, IEEE Big Data 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10386574)
 
-- Fair Collective Classification in Networked Data, Karuna Bhaila, Yongkai Wu, Xintao Wu, IEEE Big Data 2022 and EAI-KDD 2022 [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10020610)
+- Fair Collective Classification in Networked Data, Karuna Bhaila, Yongkai Wu, Xintao Wu, IEEE Big Data 2022 and EAI-KDD 2022. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10020610)
 
 # 🎖 Honors and Awards
 - *2024.04*: SIAM Student Travel Award
