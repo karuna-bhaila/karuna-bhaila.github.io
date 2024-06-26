@@ -30,13 +30,13 @@ Currently, I am also working on applications of graph machine learning in physic
 
 # 📝 Preprints
 
-- DP-TabICL: In-Context Learning with Differentially Private Tabular Data, Alycia N. Carey\*, Karuna Bhaila\*, Kennedy Edemacu, Xintao Wu, ArXiV 2024. [[Paper]](https://arxiv.org/pdf/2403.05681)
+- Soft Prompting for Unlearning in Large Language Models, Karuna Bhaila, Minh-Hao Van, Xintao Wu, ArXiV 2024. [[Paper]](https://arxiv.org/pdf/2406.12038) [[Code]](https://github.com/karuna-bhaila/llm_unlearning)
 
-- Soft Prompting for Unlearniing in Large Language Models, Karuna Bhaila, Minh-Hao Van, Xintao Wu, ArXiV 2024. [[Paper]](https://arxiv.org/pdf/2406.12038) [[Code]](https://github.com/karuna-bhaila/llm_unlearning)
+- DP-TabICL: In-Context Learning with Differentially Private Tabular Data, Alycia N. Carey\*, Karuna Bhaila\*, Kennedy Edemacu, Xintao Wu, ArXiV 2024. [[Paper]](https://arxiv.org/pdf/2403.05681)
 
 # 📝 Publications
 
-- Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach, Karuna Bhaila, Wen Huang, Yongkai Wu, Xintao Wu, SDM 2024 and GLFrontiers @ NEURIPS 2023. [[Paper]](https://epubs.siam.org/doi/10.1137/1.9781611978032.1) [[Code]](https://github.com/karuna-bhaila/RGNN)
+- Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach, Karuna Bhaila, Wen Huang, Yongkai Wu, Xintao Wu, SDM 2024 and GLFrontiers @ NeurIPS 2023. [[Paper]](https://epubs.siam.org/doi/10.1137/1.9781611978032.1) [[Code]](https://github.com/karuna-bhaila/RGNN)
 
 - Cascading Failure Prediction in Power Grid Using Node and Edge Attributed Graph Neural Networks, Karuna Bhaila, Xintao Wu, IJCNN 2024 and AI2ASE @ AAAI 2024. [[Paper]](https://ai-2-ase.github.io/papers/25%5CCameraReady%5Ccamera_ready_cascade_gnn.pdf) [[Code]](https://github.com/karuna-bhaila/gnn-cascading-failure)
 
@@ -61,4 +61,3 @@ Currently, I am also working on applications of graph machine learning in physic
 - Math and CS Tutor, Webster University
 
 # Services
-Reviewer for 
