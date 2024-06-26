@@ -30,7 +30,9 @@ Currently, I am also working on applications of graph machine learning in physic
 
 # 📝 Preprints
 
-- DP-TabICL: In-Context Learning with Differentially Private Tabular Data, Alycia N. Carey*, Karuna Bhaila*, Kennedy Edemacu, Xintao Wu, ArXiV 2024. [[Paper]](https://arxiv.org/pdf/2403.05681)
+- DP-TabICL: In-Context Learning with Differentially Private Tabular Data, Alycia N. Carey\*, Karuna Bhaila\*, Kennedy Edemacu, Xintao Wu, ArXiV 2024. [[Paper]](https://arxiv.org/pdf/2403.05681)
+
+- Soft Prompting for Unlearniing in Large Language Models, Karuna Bhaila, Minh-Hao Van, Xintao Wu, ArXiV 2024. [[Paper]](https://arxiv.org/pdf/2406.12038) [[Code]](https://github.com/karuna-bhaila/llm_unlearning)
 
 # 📝 Publications
 
@@ -57,3 +59,6 @@ Currently, I am also working on applications of graph machine learning in physic
 - Lecturer, Python and Machine Learning @ Multidisciplinary Bootcamp (MDaS), University of Arkansas 
 - Guest Lecturer, CSCE 4143 Data Mining, University of Arkansas
 - Math and CS Tutor, Webster University
+
+# Services
+Reviewer for 
