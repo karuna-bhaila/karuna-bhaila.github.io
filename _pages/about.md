@@ -55,7 +55,7 @@ Alycia N. Carey, Karuna Bhaila, Xintao Wu \
 Proceedings of 2023 IEEE International Conference on Big Data 
 
 - Fair Collective Classification in Networked Data [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10020610) \
-Karuna Bhaila, Yongkai Wu, Xintao Wu
+Karuna Bhaila, Yongkai Wu, Xintao Wu \
 Proceedings of 2022 IEEE International Conference on Big Data \
 *Also at KDD 2022 Workshop on Ethical Artificial Intelligence: Methods and Applications (EAI-KDD) 
 
