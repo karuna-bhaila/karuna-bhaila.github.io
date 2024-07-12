@@ -78,7 +78,7 @@ Undergraduate course, University of Arkansas, *2023*
 - Math and CS Tutor \
 Webster University, *2019 - 2020*
 
-# Services
+# 💻 Services
 Conference Reviewer
 - International Joint Conference on Neural Networks (IJCNN)
 
