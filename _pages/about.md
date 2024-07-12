@@ -60,20 +60,23 @@ Proceedings of 2022 IEEE International Conference on Big Data \
 *Also at KDD 2022 Workshop on Ethical Artificial Intelligence: Methods and Applications (EAI-KDD) 
 
 # 🎖 Honors and Awards
-- *2024.04*: SIAM Student Travel Award
+- SIAM 2024 Student Travel Award
 - Reginald R. 'Barney' & Jameson A. Baxter Graduate Fellowship
 - College of Engineering Graduate Fellowship
 - Webster International Scholarship
 
 # 💻 Experience
 - *2020.09 - 2021.07*: Developer, ITSutra
-- *2019.08 - 2020.05*: Data Analyst, FDC Webster University
+- *2019.08 - 2020.05*: Data Analyst, Faculty Development Center at Webster University
 - *2019.05 - 2019.07*: Intern, Jenzabar
 
 # 💬 Teaching
-- Lecturer, Python and Machine Learning @ Multidisciplinary Bootcamp (MDaS), University of Arkansas 
-- Guest Lecturer, CSCE 4143 Data Mining, University of Arkansas
-- Math and CS Tutor, Webster University
+- Lecturer, Python and Machine Learning \
+Multidisciplinary Bootcamp (MDaS), University of Arkansas, *2021 - 2024* 
+- Guest Lecturer, CSCE 4143 Data Mining \
+Undergraduate course, University of Arkansas, *2023*
+- Math and CS Tutor \
+Webster University, *2019 - 2020*
 
 # Services
 Conference Reviewer
