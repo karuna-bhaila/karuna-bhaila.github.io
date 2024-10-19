@@ -19,8 +19,8 @@ redirect_from:
 
 I am a CS Ph.D. student in the [SAIL](https://sail.uark.edu/) lab advised by [Dr. Xintao Wu](http://www.csce.uark.edu/~xintaowu/) at the University of Arkansas.
 
-My research focuses on graph machine learning with an emphasis on trustworthy learning, especially privacy and fairness. 
-I am also broadly interested in trustworthy foundation models, graph foundation models and applications of LLMs on graph data.
+My research focuses on trustworthy machine learning, with an emphasis on privacy and fairness. I mainly work on graph-structured data and large language models.
+I am also broadly interested in graph foundation models and applications of LLMs on graph data.
 Currently, I am also working on applications of graph machine learning in physical systems such as critical infrastructure networks.
 
 <!--# 🔥 News
@@ -60,14 +60,14 @@ Proceedings of 2022 IEEE International Conference on Big Data \
 *Also at KDD 2022 Workshop on Ethical Artificial Intelligence: Methods and Applications (EAI-KDD) 
 
 # 🎖 Honors and Awards
+- Margaret Gerig Martin Graduate Scholarship
 - SIAM 2024 Student Travel Award
 - Reginald R. 'Barney' & Jameson A. Baxter Graduate Fellowship
 - College of Engineering Graduate Fellowship
 - Webster International Scholarship
 
 # 💻 Experience
-- *2020.09 - 2021.07*: Developer, ITSutra
-- *2019.08 - 2020.05*: Data Analyst, Faculty Development Center at Webster University
+- *2019.05 - 2020.05*: Data Analyst, Faculty Development Center at Webster University
 - *2019.05 - 2019.07*: Intern, Jenzabar
 
 # 💬 Teaching
@@ -80,6 +80,7 @@ Webster University, *2019 - 2020*
 
 # 💻 Services
 Conference Reviewer
+- International Conference on Machine Learning and Applications (ICMLA)
 - International Joint Conference on Neural Networks (IJCNN)
 
 Journal Reviewer
