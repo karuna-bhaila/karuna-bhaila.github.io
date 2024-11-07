@@ -38,11 +38,11 @@ ArXiV 2024
 Karuna Bhaila, Minh-Hao Van, Xintao Wu \
 ArXiV 2024
 
+# 📝 Publications
+
 - DP-TabICL: In-Context Learning with Differentially Private Tabular Data [[Paper]](https://arxiv.org/pdf/2403.05681) \
 Alycia N. Carey\*, Karuna Bhaila\*, Kennedy Edemacu, Xintao Wu \
-ArXiV 2024
-
-# 📝 Publications
+Proceedings of 2024 IEEE International Conference on Big Data 
 
 - Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach [[Paper]](https://epubs.siam.org/doi/10.1137/1.9781611978032.1) [[Code]](https://github.com/karuna-bhaila/RGNN) \
 Karuna Bhaila, Wen Huang, Yongkai Wu, Xintao Wu \
