@@ -30,6 +30,10 @@ Currently, I am also working on applications of graph machine learning in physic
 
 # 📝 Preprints
 
+- Fair In-Context Learning via Latent Concept Variables[[Paper]](https://arxiv.org/abs/2411.02671) \
+Karuna Bhaila, Minh-Hao Van, Kennedy Edemacu, Chen Zhao, Feng Chen, Xintao Wu \
+ArXiV 2024
+
 - Soft Prompting for Unlearning in Large Language Models [[Paper]](https://arxiv.org/pdf/2406.12038) [[Code]](https://github.com/karuna-bhaila/llm_unlearning) \
 Karuna Bhaila, Minh-Hao Van, Xintao Wu \
 ArXiV 2024
