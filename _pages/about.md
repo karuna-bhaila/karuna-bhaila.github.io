@@ -49,7 +49,7 @@ Karuna Bhaila, Wen Huang, Yongkai Wu, Xintao Wu \
 Proceedings of the 2024 SIAM International Conference on Data Mining (SDM) \
 *Also at NeurIPS 2023 Workshop New Frontiers in Graph Learning (GLFrontiers)
 
-- Cascading Failure Prediction in Power Grid Using Node and Edge Attributed Graph Neural Networks [[Paper]](https://ai-2-ase.github.io/papers/25%5CCameraReady%5Ccamera_ready_cascade_gnn.pdf) [[Code]](https://github.com/karuna-bhaila/gnn-cascading-failure) \
+- Cascading Failure Prediction in Power Grid Using Node and Edge Attributed Graph Neural Networks [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10650986) [[Code]](https://github.com/karuna-bhaila/gnn-cascading-failure) \
 Karuna Bhaila, Xintao Wu \
 Proceedings of the 2024 International Joint Conference on Neural Networks (IJCNN) \
 *Also at AAAI 2024 Workshop on AI to Accelerate Science and Engineering (AI2ASE)
