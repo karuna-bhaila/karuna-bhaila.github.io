@@ -30,7 +30,7 @@ Currently, I am also working on applications of graph machine learning in physic
 
 # 📝 Preprints
 
-- Fair In-Context Learning via Latent Concept Variables[[Paper]](https://arxiv.org/abs/2411.02671) \
+- Fair In-Context Learning via Latent Concept Variables [[Paper]](https://arxiv.org/abs/2411.02671) [[Code]](https://github.com/karuna-bhaila/fairicl)\
 Karuna Bhaila, Minh-Hao Van, Kennedy Edemacu, Chen Zhao, Feng Chen, Xintao Wu \
 ArXiV 2024
 
@@ -84,12 +84,15 @@ Webster University, *2019 - 2020*
 
 # 💻 Services
 Conference Reviewer
+- Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
 - International Conference on Machine Learning and Applications (ICMLA)
 - International Joint Conference on Neural Networks (IJCNN)
 
 Journal Reviewer
 - Transactions on Big Data (TBD)
+- International Journal of Data Science and Analytics 
 - Human-Centric Intelligent Systems (HCIN)
+- Transactions on Intelligent Systems and Technology (TIST)
 
 Workshop Reviewer
 - KDD Workshop on Ethical Artificial Intelligence: Methods and Applications (EAI-KDD)
