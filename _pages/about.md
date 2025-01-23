@@ -34,11 +34,11 @@ Currently, I am also working on applications of graph machine learning in physic
 Karuna Bhaila, Minh-Hao Van, Kennedy Edemacu, Chen Zhao, Feng Chen, Xintao Wu \
 ArXiV 2024
 
+# 📝 Publications
+
 - Soft Prompting for Unlearning in Large Language Models [[Paper]](https://arxiv.org/pdf/2406.12038) [[Code]](https://github.com/karuna-bhaila/llm_unlearning) \
 Karuna Bhaila, Minh-Hao Van, Xintao Wu \
-ArXiV 2024
-
-# 📝 Publications
+Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)
 
 - DP-TabICL: In-Context Learning with Differentially Private Tabular Data [[Paper]](https://arxiv.org/pdf/2403.05681) \
 Alycia N. Carey\*, Karuna Bhaila\*, Kennedy Edemacu, Xintao Wu \
