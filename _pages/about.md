@@ -19,7 +19,7 @@ redirect_from:
 
 I am a CS Ph.D. student in the [SAIL](https://sail.uark.edu/) lab advised by [Dr. Xintao Wu](http://www.csce.uark.edu/~xintaowu/) at the University of Arkansas.
 
-My research focuses on trustworthy machine learning, with an emphasis on privacy and fairness. I mainly work on graph-structured data and large language models.
+My research focuses on trustworthy machine learning, with an emphasis on privacy and unlearning. I mainly work on graph-structured data and large language models.
 I am also broadly interested in graph foundation models and applications of LLMs on graph data.
 Currently, I am also working on applications of graph machine learning in physical systems such as critical infrastructure networks.
 
@@ -36,11 +36,11 @@ ArXiV 2024
 
 # 📝 Publications
 
-- Soft Prompting for Unlearning in Large Language Models [[Paper]](https://arxiv.org/pdf/2406.12038) [[Code]](https://github.com/karuna-bhaila/llm_unlearning) \
+- Soft Prompting for Unlearning in Large Language Models [[Paper]](https://aclanthology.org/2025.naacl-long.204.pdf) [[Code]](https://github.com/karuna-bhaila/llm_unlearning) \
 Karuna Bhaila, Minh-Hao Van, Xintao Wu \
-Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)
+Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Main (Oral) 
 
-- DP-TabICL: In-Context Learning with Differentially Private Tabular Data [[Paper]](https://arxiv.org/pdf/2403.05681) \
+- DP-TabICL: In-Context Learning with Differentially Private Tabular Data [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10826053) \
 Alycia N. Carey\*, Karuna Bhaila\*, Kennedy Edemacu, Xintao Wu \
 Proceedings of 2024 IEEE International Conference on Big Data 
 
