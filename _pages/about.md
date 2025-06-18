@@ -30,6 +30,10 @@ Currently, I am also working on applications of graph machine learning in physic
 
 # 📝 Preprints
 
+- CausalVLBench: Benchmarking Visual Causal Reasoning in Large Vision-Language Models [[Paper]](https://arxiv.org/abs/2506.11034)\
+Aneesh Komanduri, Karuna Bhaila, Xintao Wu \
+ArXiV 2025
+
 - Fair In-Context Learning via Latent Concept Variables [[Paper]](https://arxiv.org/abs/2411.02671) [[Code]](https://github.com/karuna-bhaila/fairicl)\
 Karuna Bhaila, Minh-Hao Van, Kennedy Edemacu, Chen Zhao, Feng Chen, Xintao Wu \
 ArXiV 2024
@@ -71,6 +75,7 @@ Proceedings of 2022 IEEE International Conference on Big Data \
 - Webster International Scholarship
 
 # 💻 Experience
+- *2025.05 - Present*: InfoSec Research Intern, Walmart Global Tech
 - *2019.05 - 2020.05*: Data Analyst, Faculty Development Center at Webster University
 - *2019.05 - 2019.07*: Intern, Jenzabar
 
